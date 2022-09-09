@@ -1,0 +1,1 @@
+{"ast":null,"code":"var x = function x() {};","map":{"version":3,"sources":["/media/enrique/Windows/desarrollo/react-course-Udemy/nextjs-app/pages/[meetupId]/index.js"],"names":["x"],"mappings":"AAAA,IAAMA,CAAC,GAAG,SAAJA,CAAI,GAAM,CAEf,CAFD","sourcesContent":["const x = () => {\n  \n}"]},"metadata":{},"sourceType":"script"}
